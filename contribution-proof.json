@@ -1,0 +1,7 @@
+{
+  "artifact_url": "https://github.com/Osicoder/technoscore-did-starter",
+  "commit": "3cc03a6e908e8776de9fdd465c53d23d31db2e9f",
+  "did": "did:key:z6MksD8egx4v2EJNhVcu9d21zmbYdEwWpFGpC6ScMd5wXUUN",
+  "schema": "technocore-contribution-proof-v1",
+  "signature": "cv4odHyC52LHrN8oIHp3V99r7wPdFpZx-Xgb6bjIAyVKrPuM9OzduA4sbons3S0oxThVJvG_Vhb0XJ0pE4woCw"
+}
